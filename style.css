@@ -1,0 +1,16 @@
+#end{
+    position: fixed;
+    background-color: rgb(253, 194, 229);
+    bottom: 0%;
+    width: 100%;
+    color: rgb(15, 0, 0);
+    height: 50pxl;
+}
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 10px;
+    margin-top: 60px;
+   }
+   body{
+    font-family: 'Syne Mono', monospace;
+   }
